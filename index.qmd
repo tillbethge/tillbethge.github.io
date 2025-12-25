@@ -1,0 +1,14 @@
+---
+title: "Till Bethge"
+about:
+  template: jolla
+  links:
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@tillbethge
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/tills_musik/
+---
+
+Willkommen auf meiner Website. Ich freue mich sehr über Ihr Interesse an meiner Musik!

@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Till Bethge"
+  navbar:
+    background: "#001f3f" 
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projekte.qmd
+        text: Anhören
+      - href: konzerte.qmd
+        text: Konzerte
+      - href: biografie.qmd
+        text: Künstlerische Stationen und Vision
+
+format:
+  html:
+    theme: lux
+    mainfont: "Playfair Display"
+    # We define the colors directly here for reliability:
+    primary: "#001f3f"
+    linkcolor: "#ff7f50"    # Coral-Orange (High Contrast)
+    secondary: "#C5A059"
+    css: styles.css
+    toc: true

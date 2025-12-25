@@ -1,0 +1,33 @@
+---
+title: "Anhören"
+format: html
+---
+
+Hier finden Sie Hörproben und eine Übersicht meiner aktuellen und vergangenen Projekte.
+
+### Bethge/Luck Duo
+
+Christian Luck und Till Bethge haben bei ihren ersten gemeinsamen Jams schnell gemerkt, dass die Chemie stimmt. Ihre Energie entsteht aus der Freude an Interaktion, Spontanität und Groove.
+Der Sound von Bass und Stimme im Duo ist dabei puristisch, warm und vorwärtsblickend. Dazwischen streut Till Klavierparts ein, die den musikalischen Dialog weiter inspirieren.
+Stilistisch bewegt sich das Duo improvisierend zwischen leicht arrangierten Swing-Standards und zeitgenössischen Einflüssen wie D'Angelo oder Michael Mayo.
+
+Till Bethge - voc, piano  
+Christian Luck - bass
+
+### Beppo Gigi
+Till Bethge - voc, piano  
+Niklas Werk - git
+
+::: {.column-body}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2947248688/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1625311921/transparent=true/" seamless><a href="https://beppogigi.bandcamp.com/album/justus-trip">Justus Trip von Beppo Gigi</a></iframe>
+:::
+
+{{< video https://www.youtube.com/watch?v=6Ivhm7zg32s
+ >}}
+
+### Solo Pop-Produktion
+Dieser Song ist während der Corona-Zeit entstanden, als Live-Auftritte wenig möglich waren. Ich habe komponiert, alle Instrumente eingespielt und Mixing und Mastering selbst umgesetzt.  
+Stilistisch habe ich mich hier im Pop-Bereich ausprobiert.  
+
+{{< video https://www.youtube.com/watch?v=MU3oyJ1WR1U&list=RDMU3oyJ1WR1U&start_radio=1
+ >}}
