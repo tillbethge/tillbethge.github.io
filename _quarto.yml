@@ -8,7 +8,7 @@ website:
     background: "#001f3f" 
     left:
       - href: index.qmd
-        text: Willkommen und Kontakt
+        text: Kontakt
       - href: projekte.qmd
         text: Anhören
       - href: konzerte.qmd
