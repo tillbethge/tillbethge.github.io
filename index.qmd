@@ -12,3 +12,19 @@ about:
 ---
 
 Willkommen auf meiner Website. Ich freue mich sehr über Dein Interesse an meiner Musik!
+
+Du kannst mir gerne unten eine Nachricht senden oder meinen Social Media Kanälen folgen.
+
+<form action="https://formspree.io/f/mgoewyvk" method="POST">
+<label>
+    Email-Adresse:  
+    <input type="email" name="email">
+</label>
+
+
+<label>
+    Nachricht:  
+    <textarea name="message"></textarea>
+</label>  
+<button type="submit">Send</button>
+</form>
