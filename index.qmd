@@ -12,8 +12,13 @@ about:
 ---
 
 Willkommen auf meiner Website. Ich freue mich sehr über Dein Interesse an meiner Musik!
-
 Du kannst mir gerne unten eine Nachricht senden oder meinen Social Media Kanälen folgen.
+
+::: {layout-ncol=2}
+![](bilder/vogel_bild.jpg){group="gallery" .rounded-corners}
+
+![](bilder/cafe_bild.jpg){group="gallery" .rounded-corners}
+:::
 
 <form action="https://formspree.io/f/mgoewyvk" method="POST">
 <label>
