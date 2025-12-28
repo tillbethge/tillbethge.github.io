@@ -1,7 +1,7 @@
 ---
-title: "Kontakt"
+title: "Sänger & Pianist"
 about:
-  template: jolla
+  template: solana
   links:
     - icon: youtube
       text: YouTube
@@ -11,8 +11,12 @@ about:
       href: https://www.instagram.com/tills_musik/
 ---
 
-Willkommen auf meiner Website. Ich freue mich sehr über Dein Interesse an meiner Musik!
-Du kannst mir gerne unten eine Nachricht senden oder meinen Social Media Kanälen folgen.
+Ich bin professioneller Sänger und Pianist, aktuell im Studium an der renommierten **Hochschule für Musik Carl Maria von Weber in Dresden**.
+
+Stilistik: Jazz, Pop und Eigenkompositionen.  
+Sie können mich für Auftritte in verschiedenen Besetzungen buchen: Solo an Klavier und Gesang, im Duo mit Bass oder Gitarre, oder in größeren Ensembles.
+
+Für Anfragen senden Sie mir gerne eine Nachricht über das Kontaktformular unten und ich melde mich bei Ihnen zurück.
 
 ::: {layout-ncol=2}
 ![](bilder/vogel_bild.jpg){group="gallery" .rounded-corners}
@@ -20,16 +24,55 @@ Du kannst mir gerne unten eine Nachricht senden oder meinen Social Media Kanäle
 ![](bilder/cafe_bild.jpg){group="gallery" .rounded-corners}
 :::
 
-<form action="https://formspree.io/f/mgoewyvk" method="POST">
-<label>
-    Email-Adresse:  
-    <input type="email" name="email">
-</label>
+```{=html}
+<style>
+  .contact-form {
+    /* Entfernt die schmale Begrenzung, damit es so breit wie der Text ist */
+    width: 100%; 
+    max-width: 100%; 
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .contact-form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .contact-form input, 
+  .contact-form textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%; /* Füllt die gesamte Breite des Textbereichs aus */
+    box-sizing: border-box; /* Wichtig, damit Padding die Box nicht sprengt */
+    font-family: inherit;
+    font-size: 1rem;
+  }
+  
+  .contact-form button {
+    background-color: #333;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    align-self: flex-start; /* Der Button bleibt linksbündig, wird nicht gestreckt */
+    transition: background 0.3s;
+  }
+  
+  .contact-form button:hover {
+    background-color: #555;
+  }
+</style>
 
+<form action="[https://formspree.io/f/mgoewyvk](https://formspree.io/f/mgoewyvk)" method="POST" class="contact-form">
+  <label for="email">E-Mail-Adresse:</label>
+  <input type="email" id="email" name="email" required>
 
-<label>
-    Nachricht:  
-    <textarea name="message"></textarea>
-</label>  
-<button type="submit">Send</button>
+  <label for="message">Nachricht:</label>
+  <textarea id="message" name="message" rows="5" required></textarea>
+
+  <button type="submit">Nachricht senden</button>
 </form>

@@ -3,7 +3,7 @@ title: "Anhören"
 format: html
 ---
 
-Hier findest Du Hörproben und eine Übersicht meiner aktuellen und vergangenen Projekte.
+Hier finden Sie Hörproben und eine Übersicht meiner aktuellen und vergangenen Projekte.
 
 ### Bethge/Luck Duo
 
@@ -25,9 +25,8 @@ Niklas Werk - git
 {{< video https://www.youtube.com/watch?v=6Ivhm7zg32s
  >}}
 
-### Solo Pop-Produktion
+### Solo Pop-Projekt
 Dieser Song ist während der Corona-Zeit entstanden, als Live-Auftritte wenig möglich waren. Ich habe komponiert, alle Instrumente eingespielt und Mixing und Mastering selbst umgesetzt.  
-Stilistisch habe ich mich hier im Pop-Bereich ausprobiert.  
 
 {{< video https://www.youtube.com/watch?v=MU3oyJ1WR1U&list=RDMU3oyJ1WR1U&start_radio=1
  >}}

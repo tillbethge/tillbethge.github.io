@@ -13,8 +13,6 @@ website:
         text: Anhören
       - href: konzerte.qmd
         text: Konzerte
-      - href: biografie.qmd
-        text: Künstlerische Stationen und Vision
 
 format:
   html:

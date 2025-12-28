@@ -4,6 +4,8 @@ format: html
 ---
 
 ::: {style="text-align: justify;"}
+
 Ich liebe den Kontakt und die Verbindung, die durch Musik entsteht. Dabei möchte ich mein Publikum durch mein Zusammenspiel mit den MitmusikerInnen inspirieren. Wichtig sind mir Offenheit und der Mut zu Spontanität und Improvisation im Moment.\
-Um meine Ausdrucksmöglichkeiten weiter zu erforschen und zu entwickeln, studiere ich an der Hochschule für Musik Carl Maria von Weber in Dresden. Zuvor habe ich eine studienvorbereitende Ausbildung an der Musikschule City West in Berlin-Charlottenburg absolviert.
+Um meine Ausdrucksmöglichkeiten weiter zu erforschen und zu entwickeln, studiere ich an der <b>Hochschule für Musik Carl Maria von Weber in Dresden</b>. Zuvor habe ich eine studienvorbereitende Ausbildung an der Musikschule City West in Berlin-Charlottenburg absolviert.
+
 :::
