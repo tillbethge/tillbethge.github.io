@@ -11,15 +11,18 @@ about:
       href: https://www.instagram.com/tills_musik/
 ---
 
-Ich bin professioneller Sänger und Pianist, aktuell im Studium an der renommierten **Hochschule für Musik Carl Maria von Weber in Dresden**.
+Ich bin Sänger und Pianist, aktuell im Studium an der renommierten **Hochschule für Musik Carl Maria von Weber in Dresden**.
 
 Stilistik: Jazz, Pop und Eigenkompositionen.  
 Sie können mich für Auftritte in verschiedenen Besetzungen buchen: Solo an Klavier und Gesang, im Duo mit Bass oder Gitarre, oder in größeren Ensembles.
 
 Für Anfragen senden Sie mir gerne eine Nachricht über das Kontaktformular unten und ich melde mich bei Ihnen zurück.
 
+
 ::: {layout-ncol=2}
-![](bilder/vogel_bild.jpg){group="gallery" .rounded-corners}
+![](bilder/jazztreff-1.jpg){group="gallery" .rounded-corners}
+
+![](bilder/Mangler-241124_Jazztreff-M08_CaramelTonic-13.jpg){group="gallery" .rounded-corners}
 
 ![](bilder/cafe_bild.jpg){group="gallery" .rounded-corners}
 :::
