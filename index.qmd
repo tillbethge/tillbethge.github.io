@@ -20,11 +20,7 @@ Für Anfragen senden Sie mir gerne eine Nachricht über das Kontaktformular unte
 
 
 ::: {layout-ncol=2}
-![](bilder/jazztreff-1.jpg){group="gallery" .rounded-corners}
-
-![](bilder/Mangler-241124_Jazztreff-M08_CaramelTonic-13.jpg){group="gallery" .rounded-corners}
-
-![](bilder/cafe_bild.jpg){group="gallery" .rounded-corners}
+![](bilder/jazztreff-1.jpg)
 :::
 
 ```{=html}
