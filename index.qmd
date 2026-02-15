@@ -21,6 +21,8 @@ Für **Anfragen** senden Sie mir gerne eine Nachricht über das Kontaktformular 
 
 ::: {layout-ncol=2}
 ![](bilder/jazztreff-1.jpg)
+
+![](bilder/profil.jpg)
 :::
 
 ```{=html}
