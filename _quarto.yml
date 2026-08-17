@@ -11,8 +11,6 @@ website:
         text: Kontakt
       - href: projekte.qmd
         text: Anhören
-      - href: konzerte.qmd
-        text: Konzerte
 
 format:
   html:
