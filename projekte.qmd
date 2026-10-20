@@ -5,16 +5,19 @@ format: html
 
 Hier finden Sie Hörproben und eine Auswahl meiner aktuellen und vergangenen Projekte.
 
-{{< video https://www.youtube.com/embed/X9LEsFcIsiY >}} 
+### Neosoul Ensemble
 
-{{< video https://www.youtube.com/embed/K7Fn58btqag >}}
+{{< video https://www.youtube.com/watch?v=giD9ni8TJ68 >}} 
 
-{{< video https://www.youtube.com/embed/7xkKKT4rfrA
- >}}
- 
-{{< video https://www.youtube.com/embed/e70bVkVUrF8 >}} 
+### Vocal Night HfM Dresden
+
+{{< video https://www.youtube.com/watch?v=9AI5ihI8EBw
+>}}
 
 ### Bethge/Luck Duo
+
+{{< video https://www.youtube.com/watch?v=1nY6_TsbS0U>}}
+{{< video https://www.youtube.com/embed/K7Fn58btqag >}}
 
 Christian Luck und Till Bethge haben bei ihren ersten gemeinsamen Jams schnell gemerkt, dass die Chemie stimmt. Ihre Energie entsteht aus der Freude an Interaktion, Spontanität und Groove.
 Der Sound von Bass und Stimme im Duo ist dabei puristisch, warm und vorwärtsblickend. Dazwischen streut Till Klavierparts ein, die den musikalischen Dialog weiter inspirieren.
@@ -22,6 +25,13 @@ Stilistisch bewegt sich das Duo improvisierend zwischen leicht arrangierten Swin
 
 Till Bethge - voc, piano  
 Christian Luck - bass
+
+### Klavier Solo
+{{< video https://youtu.be/vm6L7-WqC4o>}}
+
+### Duo mit Klavier
+
+{{< video https://www.youtube.com/embed/e70bVkVUrF8 >}} 
 
 ### Beppo Gigi
 Till Bethge - voc, piano  

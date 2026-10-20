@@ -11,7 +11,7 @@ about:
       href: https://www.instagram.com/tills_musik/
 ---
 
-Ich bin Sänger und Pianist, aktuell im Studium an der renommierten **Hochschule für Musik Carl Maria von Weber in Dresden**.
+Ich bin Sänger und Pianist, aktuell im Studium an der **Hochschule für Musik Carl Maria von Weber in Dresden**.
 
 Stilistik: **Jazz, Soul, Eigenkompositionen**.  
 Sie können mich für **Auftritte in verschiedenen Besetzungen** engagieren: Solo an Klavier und Gesang, im Duo mit Bass oder Gitarre, oder in größeren Ensembles.
@@ -20,8 +20,6 @@ Konzertaktivitäten: U.a. beim Stadtfest Dresden (Till Bethge Trio), Kammermusik
 
 Für **Anfragen** senden Sie mir gerne eine Nachricht über das Kontaktformular unten und ich melde mich bei Ihnen zurück.
 
-![](bilder/profil.jpg)
-:::
 
 ```{=html}
 <style>
@@ -75,3 +73,9 @@ Für **Anfragen** senden Sie mir gerne eine Nachricht über das Kontaktformular 
 
   <button type="submit">Nachricht senden</button>
 </form>
+```
+\
+
+![](bilder/light_ray.jpg)
+![](bilder/edit1.jpg)
+![](bilder/edit2.jpg)
