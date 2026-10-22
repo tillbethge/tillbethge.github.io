@@ -17,8 +17,6 @@ format:
     theme: lux
     mainfont: "Playfair Display"
     # We define the colors directly here for reliability:
-    primary: "#001f3f"
     linkcolor: "#ff7f50"    # Coral-Orange (High Contrast)
-    secondary: "#C5A059"
     css: styles.css
     toc: true

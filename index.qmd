@@ -11,6 +11,8 @@ about:
       href: https://www.instagram.com/tills_musik/
 ---
 
+![](bilder/light_ray.jpg)
+
 Ich bin Sänger und Pianist, aktuell im Studium an der **Hochschule für Musik Carl Maria von Weber in Dresden**.
 
 Stilistik: **Jazz, Soul, Eigenkompositionen**.  
@@ -76,6 +78,5 @@ Für **Anfragen** schicke mir gerne eine Nachricht über das Kontaktformular unt
 ```
 \
 
-![](bilder/light_ray.jpg)
 ![](bilder/edit1.jpg)
 ![](bilder/edit2.jpg)
